@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+C:\Users\Paul Rondeau\Documents\School\Google Drive\bixi\.metadata\.plugins\org.eclipse.jdt.core
+444108924.index
+3201398653.index
+2853435535.index
+3352491446.index
+2126292595.index
+692377338.index
